@@ -5,7 +5,8 @@
 
 
 
-Este código foi feito para estudo de API e servidor RPC, que fornece um método para retornar a previsão do tempo para uma cidade específica. O servidor utiliza a API da OpenWeatherMap para obter os dados da previsão do tempo.
+Este código foi feito para estudo de API e servidor RPC local.
+É fornecido um método para retornar a previsão do tempo para uma cidade específica. O servidor utiliza a API da OpenWeatherMap para obter os dados da previsão do tempo.
 
 # Como usar
 Para usar o servidor, siga estas etapas:
